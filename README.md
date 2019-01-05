@@ -1,0 +1,1 @@
+# BASH-Script-for-KDE-Pywal-Image-Shuffle-Integration

@@ -22,7 +22,7 @@ elif [ $# -eq 1 ]; then
                 d.writeConfig("Image", "'"$fullpath"'");
         }'
         echo "Switching terminal colors to new image"
-        wal -i "$newpath"
+        wal -i "$fullpath"
 elif [ $# -eq 2 ]; then
         echo "Two paths supplied"
         echo "Shuffling image from first path"

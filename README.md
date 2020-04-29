@@ -11,7 +11,7 @@
 
 ## About The Project
 
-This is a CLI tool to allow setting a KDE wallpaper and a custom terminal theme based on this wallpaper with a provided path.
+This is a CLI tool to allow setting a KDE wallpaper and a custom terminal theme based on a random wallpaper from a supplied path.
 
 ### Built With
 

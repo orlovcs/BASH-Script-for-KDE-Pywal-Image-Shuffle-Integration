@@ -25,7 +25,7 @@ Install the following packages.
 
 ## Usage
 
-Clone and execute ```kdecolor.sh ```with:
+Clone and execute ```kdecolor.sh```with:
 
 One command line argument specifies the path for one image which will be set as the new wallpaper and terminal theme source. 
 ```sh
